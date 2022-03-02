@@ -1,6 +1,7 @@
 ## 1. preparing
 
 **环境安装：**  安装Eigen库
+
 **DeformationTransfer编译：** `cd modules/deformation/cython`  `python3 setup.py build_ext -i `.
 
 ## 2. pipeline
